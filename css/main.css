@@ -388,7 +388,7 @@ img::-moz-selection {
     z-index: 800;
     width: 70%;
     margin-left: 30%; 
-     background:url('https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=2478080182,2038324207&fm=27&gp=0.jpg')no-repeat center center;
+     background:url(https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=2478080182,2038324207&fm=27&gp=0.jpg)no-repeat center center;
      background-size:cover;
 }
 
